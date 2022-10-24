@@ -2,4 +2,4 @@
 
 echo "**** installing java11 dev environment ****"
 apt-get install -y \
-    openjdk-11-jdk
+    openjdk-17-jre
