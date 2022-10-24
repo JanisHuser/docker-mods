@@ -3,3 +3,6 @@
 echo "**** installing java11 dev environment ****"
 apt-get install -y \
     openjdk-17-jre
+
+
+#export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-arm64/bin
